@@ -7,8 +7,8 @@ Advanced Python
 Resources
 Read or watch:
 
-Python 3 typing documentation
-MyPy cheat sheet
+[Python 3 typing documentaition](https://docs.python.org/3/library/typing.html)
+[MyPy cheat sheet](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
 Learning Objectives
 General
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
